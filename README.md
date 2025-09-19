@@ -41,10 +41,6 @@ Contributions are highly welcome! To contribute:
 - Prefer descriptive commit messages.
 - Check for duplicates before submitting a new solution.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code with proper attribution.
-
 ## Contact
 
 For questions, suggestions, or collaboration:
