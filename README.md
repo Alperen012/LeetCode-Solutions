@@ -5,11 +5,7 @@ Welcome to the **LeetCode-Solutions** repository! This project is a comprehensiv
 ## Table of Contents
 
 - [About the Repository](#about-the-repository)
-- [Languages Used](#languages-used)
-- [Directory Structure](#directory-structure)
-- [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
