@@ -2,14 +2,14 @@ class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
         
         if(s==""): return True
-        if(len(s)>len(t)): return False
-        
+        ls = len(s)
+        lt = len(t)
+        if(ls>lt): return False
         k=0
-        l = len(s)
-        for i in range(len(t)):
+        for i in range(lt):
             if(t[i]==s[k]):
                 k+=1
-                if(l == k):return True
+                if(ls == k):return True
         
-        return len(s) == k
+        return lt == k
             
